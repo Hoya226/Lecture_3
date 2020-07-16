@@ -25,6 +25,10 @@ nowdate = func_module.date_now()
 #print(date_Xmas)
 
 
-ndate = func_module_as.date_now()
+#ndate = func_module_as.date_now()
 
-print(ndate)
+#print(ndate)
+
+
+re_date = func_module_as.remain_date_input(10,20)
+print(re_date)
